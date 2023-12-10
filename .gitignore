@@ -4,3 +4,5 @@ password.txt
 scholl_test/test.txt
 # Игнорировать все файлы с расширением .doc
 *.doc
+file_new.txt
+
